@@ -23,6 +23,7 @@ def average_salary(total, tax, down_payment, term, maintenance, insurace):
                maintenance -- average maintenance cost of automobile 
                insurace -- average insurance cost of automobile 
           Returns:
+               None
     """
     print(total)
     tax = tax * .01
